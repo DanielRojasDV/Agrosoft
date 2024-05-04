@@ -4,3 +4,5 @@ Proyecto de tienda virtual de comercialización de elementos agricolas creada pa
 ## Integrantes y Roles del Equipo
 
 José Daniel Rojas Castiblanco - Desarrollador Backend
+
+Felipe Salazar Betancourt - Diseñador web
