@@ -8,3 +8,4 @@ José Daniel Rojas Castiblanco - Desarrollador Backend
 Felipe Salazar Betancourt - Diseñador web
 
 Orlando Rafael Rincon Zambrano - Scrum Master
+Paulo Conde Vargas - DBA
